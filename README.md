@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marc Bourleau</h1>
 <h3 align="center">A passionate student in Data Analytics from Switzerland</h3>
+
 - 🔭 I’m currently working on **making interactive dashboards using PowerBI**
 
 - 🌱 I’m currently learning **SQL and PowerBI**

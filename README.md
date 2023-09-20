@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bourleaumarc@gmail.com**
 
-- 📄 Know about my experiences: [click](https://drive.google.com/file/d/12D3pH3q5l22fAmUgnNrn8o6Ds44QC6nL/view?usp=sharing)
+- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1SR5qLwjTwWo0042IMbbV0prTb6ZoGSk1/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
